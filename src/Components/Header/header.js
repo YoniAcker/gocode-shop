@@ -1,4 +1,4 @@
-import './header.css';
+import './Header.css';
 const Header = () => (
   <nav className="product-filter">
     <h1>Jackets</h1>
